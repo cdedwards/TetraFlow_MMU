@@ -9,3 +9,8 @@ TetraFlow MMU is a 4-color MMU inspired by the innovative 3dChameleon MMU. Utili
 This is the initial design undergoing refinements. The integration code for 3D printers is still under development.
 
 ![Build Image](Images/buildImage.jpg)
+
+# Demo Video
+
+[![Alt text for the video](https://img.youtube.com/vi/IvIK14vktVs/0.jpg)](https://www.youtube.com/watch?v=IvIK14vktVs)
+
